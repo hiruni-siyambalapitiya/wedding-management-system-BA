@@ -6,6 +6,7 @@ Project Overview
  The Wedding Management System is designed to simplify and streamline wedding planning activities. It helps clients efficiently book vendors, manage budgets, and track event progress while reducing manual coordination and communication gaps.
 
 🎯 Objectives
+
 Simplify vendor booking process
 Reduce manual coordination
 Avoid vendor scheduling conflicts
@@ -13,6 +14,7 @@ Enable real-time budget tracking
 Improve communication between stakeholders
 
 👥 Stakeholders
+
 Clients (Couples)
 Vendors (Photographers, Caterers, Decorators)
 Admin
@@ -61,12 +63,16 @@ Vendor performance
 City-wise booking distribution
 
 🚀 Future Improvements
+
+
 Integration with Jira for Agile project tracking
 Use of Confluence for documentation management
 Payment gateway integration
 Mobile application support
 
 💼 Learning Outcomes
+
+
 Requirement gathering and analysis
 Creating BRD & FRD documents
 Writing user stories and acceptance criteria
