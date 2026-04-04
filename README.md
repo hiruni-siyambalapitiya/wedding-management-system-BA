@@ -57,6 +57,7 @@ Power BI Dashboard
 A dashboard was created to analyze:
 
 Total bookings
+
 Booking status (Approved / Pending / Rejected)
 Budget vs Cost
 Vendor performance
@@ -81,5 +82,5 @@ Building interactive dashboards
 
 📌 Conclusion
 
-This project demonstrates core Business Analyst skills including requirement analysis, documentation, process modeling, and data visualization in a real-world scenario.
+This project demonstrates core Business Analyst skills including requirement analysisdocumentation, process modeling, and data visualization in a real-world scenario.
 
