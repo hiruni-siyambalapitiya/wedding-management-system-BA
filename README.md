@@ -62,6 +62,7 @@ Booking status (Approved / Pending / Rejected)
 Budget vs Cost
 Vendor performance
 City-wise booking distribution
+Power App
 
 🚀 Future Improvements
 
