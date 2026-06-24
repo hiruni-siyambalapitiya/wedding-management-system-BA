@@ -7,13 +7,8 @@ A complete Business Analysis project demonstrating requirement gathering, proces
 
 <br>
 
-
-
-
-
-
-
 </div>
+-----
 
 🌸 Project Overview
 
@@ -25,43 +20,73 @@ The Wedding Management System provides a centralized solution that simplifies we
 
 ✔ Simplify Vendor Booking
 
+
 ✔ Reduce Manual Coordination
 
 ✔ Improve Communication
 
+
 ✔ Prevent Scheduling Conflicts
+
+---------
 
 👥 Stakeholders
 
 Role	Responsibilities
+
 👰 Client	Plan weddings and book vendors
+
 📸 Vendors	Manage availability and bookings
+
 💼 Wedding Planner	Coordinate activities
+
 ⚙️ Admin	Manage users, vendors, approvals
+------
 
 ✨ Key Features
+
 Feature	Description
 
 🔐 Authentication	Secure Login & Registration
+
 💍 Wedding Plans	Manage wedding details
+
 🔍 Vendor Search	Browse vendors
+
 📅 Availability	Vendor scheduling
+
 ✅ Approval Workflow	Booking approval process
+
 💰 Budget Tracking	Monitor expenses
+
 🔔 Notifications	Booking updates
+
 📊 Reports	Business insights
 
+-----
+
 🧩 Business Analysis Deliverables
+
 Deliverable	Status
+
 ✅ Business Requirement Document (BRD)	Completed
+
 ✅ Functional Requirement Document (FRD)	Completed
+
 ✅ User Stories	Completed
+
 ✅ Acceptance Criteria	Completed
+
 ✅ Use Case Diagram	Completed
+
 ✅ Activity Diagram	Completed
+
 ✅ Power BI Dashboard	Completed
+
 ✅ Power App Prototype	Completed
+
 📊 Power BI Dashboard
+-------
 Business Insights
 
 📈 Total Bookings
@@ -75,6 +100,8 @@ Business Insights
 🌍 City-wise Bookings
 
 📅 Monthly Trends
+
+----------
 
 📱 Power App Prototype
 
