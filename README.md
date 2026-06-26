@@ -15,7 +15,16 @@ A complete Business Analysis project demonstrating requirement gathering, proces
 Planning a wedding involves coordinating multiple vendors, budgets, schedules, and stakeholders. Traditional methods often lead to communication gaps, scheduling conflicts, and manual effort.
 
 The Wedding Management System provides a centralized solution that simplifies wedding planning through streamlined vendor management, booking workflows, budget tracking, analytics, and low-code automation.
+---
+🎥 Live Demo
+▶️ Watch the Power App Demo
 
+📹 Google Drive
+
+Replace this link with your own:
+
+https://drive.google.com/file/d/1oD8zIxF7dq8j277UZNYGsAHyjIT5kASP/view?usp=sharing
+---
 🎯 Business Goals
 
 ✔ Simplify Vendor Booking
@@ -119,14 +128,7 @@ Features
 
 ✔ Booking Status
 
-🎥 Live Demo
-▶️ Watch the Power App Demo
 
-📹 Google Drive
-
-Replace this link with your own:
-
-https://drive.google.com/file/d/1oD8zIxF7dq8j277UZNYGsAHyjIT5kASP/view?usp=sharing
 
 🛠 Tech Stack
 
